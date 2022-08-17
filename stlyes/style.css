@@ -1,0 +1,31 @@
+*{
+    color: white;
+}
+body{
+    background-color: rgb(85, 73, 73);
+}
+
+
+section{
+    display: flex;
+    flex-wrap : wrap;
+    justify-content : space-around;
+    justify-items: center;
+}
+
+img{
+    border-radius: 15px;
+}
+
+h3{
+    color: black;
+    top : 45px;
+    margin-top: -55px;
+    margin-left : 2px;
+    position : relative;
+    z-index: 20;
+}
+
+div{
+    margin : 85px;
+}
